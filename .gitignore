@@ -4,7 +4,6 @@ __pycache__/
 *$py.class
 
 # dirs
-docs/
 .github/
 
 # C extensions

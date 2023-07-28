@@ -5,6 +5,7 @@ __pycache__/
 
 # dirs
 .github/
+docs/
 
 # C extensions
 *.so
